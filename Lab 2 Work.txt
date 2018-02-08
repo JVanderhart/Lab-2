@@ -1,0 +1,32 @@
+Public class GuessingGame{
+	generate.randomnum 			// this code is not code
+	prompt."Pick a number!"		// this code is also not code :)
+	int loops = 0
+	boolean win = false
+	while (win == false) {
+
+		if (prompted number < random.number) {
+			System.out.println("Too low, go higher!");
+			loops = loops + 1;
+		}
+		
+		if else (prompted number > random.number) {
+			System.out.println("Too high, go lower!");
+			loops = loops + 1;
+		}
+		
+		else 
+			System.out.println("You got it!!");
+			win = true;
+			loops = loops + 1;
+			
+	}
+}
+
+Public class TempConverter {
+
+	Prompt.number"What is temp to be converted?"
+	
+
+
+}
